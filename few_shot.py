@@ -3,7 +3,7 @@ import json
 
 
 class FewShotPosts:
-    def __init__(self, file_path="data/processed_posts.json"):
+    def __init__(self, file_path=r"C:\Users\jsrin\OneDrive\Desktop\GenAi\Linkedin_Post_Generator\data\preprocessed_posts.json"):
         self.df = None
         self.unique_tags = None
         self.load_posts(file_path)
@@ -40,5 +40,5 @@ class FewShotPosts:
 if __name__ == "__main__":
     fs = FewShotPosts()
     # print(fs.get_tags())
-    posts = fs.get_filtered_posts("Medium","Hinglish","Job Search")
+    posts = fs.get_filtered_posts("Short","English","Job Search")
     print(posts)
