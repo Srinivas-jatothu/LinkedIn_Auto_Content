@@ -1,0 +1,17 @@
+In this project, we are going to create a Linkedin Post Generator using Python. we will use Llama 3,2 open-source model and langchain framework and streamlit and grog  
+
+Stage-1:
+Preproecessing the text data in jason format and converting it into a text file.
+
+we will use Llama 3,2 open-source model
+
+Stage-2:(Post Generator)
+we will fetch unique topics from the text file and generate a post using the Llama 3,2 model.
+
+like when we select the topic,lenght, language and click on the generate button, it will generate a prompt for the selected topic.
+and now we will give this prompt to the Llama 3,2 model and it will generate a post for us.
+
+
+Linkedin dataset-> Bright dataset
+
+
