@@ -74,16 +74,15 @@ Consider Mohan, a LinkedIn influencer. He wants to generate a future post that m
 ## Screenshots
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Srinivas-jatothu/LinkedIn_Auto_Content/main/pic1.png" alt="Tool Screenshot 1" style="max-width: 80%; height: auto; border-radius: 10px;">
+  <img src="https://raw.githubusercontent.com/Srinivas-jatothu/LinkedIn_Auto_Content/screenshots/pic1.png" alt="Tool Screenshot 1" style="max-width: 80%; height: auto; border-radius: 10px;">
 </p>
 <p align="center" style="font-style: italic; margin-top: 10px; max-width: 80%; text-align: center; font-size: 14px;">
   This is the basic UI created using Streamlit. It consists of a header, input fields for selecting the topic, post length, and language, and a button to generate posts. The UI is clean and user-friendly, allowing users to easily select different parameters for post generation.
 </p>
 
 <br>
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Srinivas-jatothu/LinkedIn_Auto_Content/main/Pic2.png" alt="Tool Screenshot 2" style="max-width: 80%; height: auto; border-radius: 10px;">
+  <img src="https://raw.githubusercontent.com/Srinivas-jatothu/LinkedIn_Auto_Content/screenshots/Pic2.png" alt="Tool Screenshot 2" style="max-width: 80%; height: auto; border-radius: 10px;">
 </p>
 <p align="center" style="font-style: italic; margin-top: 10px; max-width: 80%; text-align: center; font-size: 14px;">
   This is how the output is displayed after the "Generate" button is clicked. The generated post is shown inside a stylish box with a border, which helps highlight the content and makes it easy to read and use directly for LinkedIn posts.
