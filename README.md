@@ -83,19 +83,4 @@ _Description of the second image goes here._
 
 ---
 
-## Contributing
 
-We encourage contributions to the project! To contribute:
-
-1. Fork the repository
-2. Create a new branch (`git checkout -b feature-name`)
-3. Make the necessary changes
-4. Commit the changes (`git commit -m 'Add feature-name'`)
-5. Push your changes to the branch (`git push origin feature-name`)
-6. Open a pull request
-
----
-
-## License
-
-This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for more information.
