@@ -75,10 +75,10 @@ Consider Mohan, a LinkedIn influencer. He wants to generate a future post that m
 
 Here are some images showing how the tool works:
 
-![Tool Screenshot 1](C:\Users\jsrin\OneDrive\Desktop\GenAi\Linkedin_Post_Generator\Pic1.png)  
+![Tool Screenshot 1]([C:\Users\jsrin\OneDrive\Desktop\GenAi\Linkedin_Post_Generator\Pic1.png](https://drive.google.com/file/d/1lzUvsvseDdVFgCa5BYDqCFBRPHdFZGdX/view?usp=drive_link))  
 _Description of the first image goes here._
 
-![Tool Screenshot 2](C:\Users\jsrin\OneDrive\Desktop\GenAi\Linkedin_Post_Generator\Pic2.png)  
+![Tool Screenshot 2]([C:\Users\jsrin\OneDrive\Desktop\GenAi\Linkedin_Post_Generator\Pic2.png](https://drive.google.com/file/d/1ie55_znWYbWfe2DBOgiVtYpTvEgSI-a-/view?usp=drive_link))  
 _Description of the second image goes here._
 
 ---
