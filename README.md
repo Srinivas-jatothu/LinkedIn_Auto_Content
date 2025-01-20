@@ -1,4 +1,4 @@
-# LinkedIn Post Generator
+# LinkedIn Content Creator
 
 This application assists LinkedIn influencers by generating new posts that align with their past content. Using Few-Shot Learning, it generates new content based on writing style, topics, and other parameters like language and post length.
 
