@@ -19,8 +19,7 @@ This tool is especially useful for LinkedIn influencers, like Mohan, who wish to
 2. [How to Use](#how-to-use)
 3. [Features Overview](#features-overview)
 4. [Sample Use Case](#sample-use-case)
-5. [Contributing](#contributing)
-6. [License](#license)
+5. [Screenshots](#Screenshots)
 
 ---
 
